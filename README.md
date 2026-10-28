@@ -1,123 +1,117 @@
+# 👋 Hi, I'm Abdul Jabbar
 
-<h1 align="center">Hi, I'm Abdul Jabbar 👋</h1>
+### 💻 Junior Full-Stack Developer | MERN Stack | Python Backend
 
-<h3 align="center">
-  Software Engineering Graduate | Junior Full-Stack Developer
-</h3>
+I build web applications, REST APIs, and database-driven systems using modern web technologies. I enjoy solving problems, learning new tools, and turning ideas into practical software.
 
-<p align="center">
-  Building web applications with the MERN stack and Python backend technologies.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abdulljabbar">
-    <img src="https://img.shields.io/badge/GitHub-Abdulljabbar-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abduljabbarsamejo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://bejewelled-chaja-71c093.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Abdulljabbar-181717?style=for-the-badge&logo=github)](https://github.com/Abdulljabbar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abduljabbarsamejo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bejewelled-chaja-71c093.netlify.app)
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 - 🎓 Software Engineering graduate from MUET Jamshoro.
-- 💻 Interested in full-stack and backend web development.
-- 🚀 Build web applications, REST APIs, and database-driven systems.
-- 🔧 Work with the MERN stack, Django, and FastAPI.
-- 📚 Continuously improving my problem-solving and software development skills.
-- 🤝 Open to junior developer roles and relevant internship opportunities.
+- 🌐 Interested in full-stack and backend web development.
+- ⚙️ Experienced with Node.js, Express.js, Django, and FastAPI.
+- 🗄️ Work with MongoDB and understand basic SQL.
+- 📚 Continuously improving my coding, API development, and problem-solving skills.
+- 🤝 Interested in junior developer roles and relevant internship opportunities.
 
-## 🛠️ Technical Skills
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-- Python
-- JavaScript
-- HTML5
-- CSS3
-- SQL (basic)
-
-### Backend Development
-- Node.js
-- Express.js
-- Django
-- FastAPI
-- REST APIs
-- Authentication and authorization
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Python, JavaScript, HTML, CSS" />
+</p>
 
 ### Frontend Development
-- React.js (basic)
-- Bootstrap
-- Tailwind CSS
-- Responsive web design
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="React, Bootstrap, Tailwind CSS" />
+</p>
 
-### Databases
-- MongoDB
-- SQLite
-- SQL fundamentals
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" alt="Node.js, Express, Django, FastAPI" />
+</p>
 
-### Tools & Platforms
-- Git and GitHub
-- Visual Studio Code
-- Postman
-- WordPress
-- HubSpot
-- Adobe Photoshop
+### Databases and Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vscode,postman" alt="MongoDB, SQL, SQLite, Git, GitHub, VS Code, Postman" />
+</p>
 
-## 🚀 Featured Projects
+**Additional tools:** WordPress, HubSpot, Adobe Photoshop.
 
-### 1. Auth-Based Blog Platform — MERN
-A full-stack blog platform built with the MERN stack.
+*Note: React.js is at a basic level, and SQL is at a basic level.*
 
-- Focus: authentication, CRUD operations, and database integration.
-- Tech: MongoDB, Express.js, React.js, Node.js.
+---
 
-🔗 [View Repository](https://github.com/Abdulljabbar/Auth-Based-Blog-Platform-MERN)
+## 🌟 Featured Projects
 
-### 2. Chat with Gemini
-An AI-powered chat application integrating Google's Gemini model.
+### 1. Auth-Based Blog Platform — MERN Stack
+A full-stack blog application demonstrating frontend and backend integration.
 
-- Focus: AI integration and interactive chat functionality.
-- Tech: Add the actual technologies used in this project.
+- Authentication and authorization
+- CRUD operations
+- Database integration
 
-🔗 [View Repository](https://github.com/Abdulljabbar/chat-with-gemini)
+**Technologies:** MongoDB, Express.js, React.js, Node.js
 
-### 3. TweetHub
-A Twitter-inspired social media application built with Django.
+🔗 [View Repository](https://github.com/Abdulljabbar)
 
-- User registration, login, and logout.
-- Create, edit, and delete tweets with authorization.
-- Image uploads and database integration.
-- Tech: Python, Django, HTML, Tailwind CSS, SQLite.
+### 2. TweetHub — Django
+A Twitter-inspired social media application.
 
-🔗 [View Repository](ADD_YOUR_TWEETHUB_REPOSITORY_URL)
+- User registration and authentication
+- Create, edit, and delete tweets
+- Image uploads and database integration
 
-### 4. WanderLust
-A web development project focused on building a functional web application.
+**Technologies:** Python, Django, HTML, Tailwind CSS, SQLite
 
-- Add a short description of its actual features.
-- Add the technologies used in the project.
+🔗 [Find TweetHub in my repositories](https://github.com/Abdulljabbar?tab=repositories)
 
-🔗 [View Repository](ADD_YOUR_WANDERLUST_REPOSITORY_URL)
+### 3. Chat with Gemini — AI Application
+An application focused on integrating Google's Gemini AI into an interactive chat experience.
 
-## 🎯 Currently Improving
+**Technologies:** Update this list to match the actual project implementation.
 
-- Building reliable REST APIs with Django and FastAPI.
-- Strengthening JavaScript and MERN stack development.
-- Improving database design, testing, and deployment skills.
+🔗 [Explore my repositories](https://github.com/Abdulljabbar?tab=repositories)
 
-## 📫 Connect With Me
+---
 
-- LinkedIn: https://www.linkedin.com/in/abduljabbarsamejo/
-- Portfolio: https://bejewelled-chaja-71c093.netlify.app
-- GitHub: https://github.com/Abdulljabbar
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdulljabbar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulljabbar&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdulljabbar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen MERN stack development.
+- Build reliable REST APIs with Django and FastAPI.
+- Improve database design, testing, and deployment.
+- Develop practical projects that solve real-world problems.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abduljabbarsamejo/)
+- 🌐 [Portfolio Website](https://bejewelled-chaja-71c093.netlify.app)
+- 🐙 [GitHub Repositories](https://github.com/Abdulljabbar?tab=repositories)
 
 ---
 
 <p align="center">
-  <i>Building projects, learning continuously, and growing as a developer.</i>
+  <i>Code. Learn. Build. Improve. Repeat. 🚀</i>
 </p>
